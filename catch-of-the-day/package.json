@@ -18,6 +18,7 @@
     "serve": "^10.1.2",
     "stylus": "0.54.5"
   },
+  "notes":"styles will compile styles. styles:watch does same thing with watch",
   "scripts": {
     "dev": "react-scripts start",
     "start": "react-scripts start",
